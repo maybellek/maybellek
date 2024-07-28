@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Infrastructure Engineering and DevOps
 - 🌱 I’m currently learning everything I don't know
 - 💞️ I’m looking to collaborate on Gen AI projects in AWS
-- 📫 How to reach me [LinkedIn]([url](https://www.linkedin.com/in/maybellekmo/))
+- 📫 How to reach me : https://www.linkedin.com/in/maybellekmo/
 - ⚡ Fun fact: Super Monkey Ball is the greatest invention ever invented by any inventor, on EARTH.
 
 <!---
